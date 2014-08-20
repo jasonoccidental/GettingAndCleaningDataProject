@@ -1,7 +1,5 @@
 # Code Book
-## Getting and Cleaning Data Project
-
-==================================================================
+### Getting and Cleaning Data Project
 
 This code book provides information regarding the raw and the output dataset of this project.
 
@@ -19,7 +17,7 @@ This code book provides information regarding the raw and the output dataset of 
 ''''''
 Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, Luca Oneto.
 Smartlab - Non Linear Complex Systems Laboratory
-DITEN - Universit‡ degli Studi di Genova.
+DITEN - Universit√† degli Studi di Genova.
 Via Opera Pia 11A, I-16145, Genoa, Italy.
 activityrecognition@smartlab.ws
 www.smartlab.ws
@@ -71,7 +69,7 @@ www.smartlab.ws
 
 ## run_analysis.R
 
-### variables assigned
+### Variables Assigned
 
 - train : Temporary variable for the training data.
 - test : Temporary variable for the Test data.
@@ -108,7 +106,7 @@ www.smartlab.ws
 - Variable Labels from raw dataset : These labels are retained but only its mean and standard deviation is retained.
 
 #### Variable Suffix
-##### This is the identifier at the end of each variable label.
+###### This is the identifier at the end of each variable label.
 - Mean : Mean value.
 - Std : Standard Deviation
 
