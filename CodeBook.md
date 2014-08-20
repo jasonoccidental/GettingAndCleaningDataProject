@@ -13,12 +13,12 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 - The URL of a zipped file of the dataset:
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
+- The data contains the output of experiments conducted on 30 volunteers wherein different activities where distinguished based on the accelerometer and gyroscope reading of an attached smartphone.
+
 ###### Acknowledgement of the source:
 - Jorge L. Reyes-Ortiz, Alessandro Ghio, Luca Oneto, Davide Anguita. November 2012.
 
-- The data contains the output of experiments conducted on 30 volunteers wherein different activities where distinguished based on the accelerometer and gyroscope reading of an attached smartphone.
-
-### Data used in the run_analysis.R
+### Data used
 
 - 'features.txt': List of all of the features.
 - 'activity_labels.txt': Links the labels with their activity name.
