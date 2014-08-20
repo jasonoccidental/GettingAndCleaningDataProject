@@ -1,4 +1,4 @@
-Getting and Cleaning Data Project
+# Getting and Cleaning Data Project
 
 Project repository for the Getting and Cleaning Data Course in Coursera.
 
@@ -40,3 +40,5 @@ The code does the following steps:
 
 5. Creates a second, independent tidy data set with the average of each variable for each activity and each subject. 
 - The output dataset is first saved for backup purposes. Then, the data is subsetted by subject then by activity to get the mean of each variable. The resulting dataset has 180 rows which contains the means of each variable of each activity done by each subject. The data is saved inside the folder of the raw dataset.
+
+###### Jason O.
